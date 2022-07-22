@@ -7,3 +7,5 @@ using heuristic function
 manhattan distance
 
 the shortest way ist the goal 
+
+![example](https://user-images.githubusercontent.com/28901069/180411108-baae4364-de85-4372-abaf-d8a34305067a.gif)
